@@ -19,7 +19,7 @@ P.S. Фон оформлен как джинсовая ткань, так как
 <img src="https://sun9-56.userapi.com/impg/9_4ILDJx-DQhCRRqar8Hpx1xNgTJZLeCxJ3aCg/egs3CsYnNlA.jpg?size=977x2160&quality=95&sign=3ee0fe4eb050d5837d6ba28faa1405d3&type=album" alt="1. Меню" height="1080"/>  
 
 #### 2. Описание программы ####  
-<img src="https://sun9-42.userapi.com/impg/J_uta1BeDGT55OSCXkjuy4kmnjEAN6dwkrrl8w/WS9tLICWjKQ.jpg?size=977x2160&quality=95&sign=f95a38c21b2064757e2015bbf1182069&type=album" alt="2. Описание программы" height="1080"/>  
+<img src="https://sun9-42.userapi.com/impg/J_uta1BeDGT55OSCXkjuy4kmnjEAN6dwkrrl8w/WS9tLICWjKQ.jpg?size=977x2160&quality=95&sign=f95a38c21b2064757e2015bbf1182069&type=album" alt="2. Описание программы" style="max-height: 1080px;"/>  
 
 #### 3. Прогноз зарплаты ####  
 <img src="https://sun9-32.userapi.com/impg/SS8h4pt4bU3pJ5krZYAVrwEV6VqQyjEH11EXeQ/AT3p7nCdLeU.jpg?size=977x2160&quality=95&sign=1f165d41de6b72d6096c3786de8d1e38&type=album" alt="3. Прогноз зарплаты" height="1080"/>  
